@@ -1,0 +1,2 @@
+class BodyShop < ApplicationRecord
+end
